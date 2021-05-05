@@ -1,0 +1,3 @@
+/Users/spyr/Desktop/Advanced Programming 1/ass7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/spyr/Desktop/Advanced Programming 1/ass7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/spyr/Desktop/Advanced Programming 1/ass7/cmake-build-debug/CMakeFiles/ass6.dir
